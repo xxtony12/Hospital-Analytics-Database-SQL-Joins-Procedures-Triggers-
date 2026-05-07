@@ -57,11 +57,11 @@ This project demonstrates how SQL analytics workflows and Power BI dashboard rep
 
 ---
 
-## Dashboard Preview:
+## Power BI Dashboard Preview:
 <img width="2430" height="1262" alt="Screenshot 2026-05-06 at 22-49-34 Power BI" src="https://github.com/user-attachments/assets/26188672-edee-494f-9bc1-1a8a903e48c6" />
 
 
-# Below is an example output from the High Debt stored procedure:
+## SQL Stored Procedure Example Output:
 <img width="1080" height="725" alt="LeftJoinWhereOutput" src="https://github.com/user-attachments/assets/4a2ba691-58af-40f3-9ea2-09c8c313974b" />
 
 
@@ -75,4 +75,4 @@ This project demonstrates how SQL analytics workflows and Power BI dashboard rep
 ---
 
 ## Project Impact
-This project demonstrates the integration of SQL analytics workflows and Power BI dashboard development to support operational reporting, KPI monitoring, billing analysis, and healthcare business intelligence use cases.
+This project demonstrates the integration of SQL analytics workflows and Power BI dashboard development to support operational reporting, KPI monitoring, billing analysis, and healthcare business intelligence use cases. The dashboard was designed to simulate real-world operational reporting environments commonly used in healthcare and business intelligence analytics teams.
